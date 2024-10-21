@@ -1,0 +1,16 @@
+/* Modul-40.1-40.5 */
+
+
+.container{
+    display: grid ; 
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px ;
+
+}
+
+.flags-container{
+    width: 50px ;
+   display: grid ; 
+   grid-template-columns: repeat(3, 1fr);
+   gap: 10px ;
+}
